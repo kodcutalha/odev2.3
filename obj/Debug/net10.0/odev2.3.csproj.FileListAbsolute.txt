@@ -1,0 +1,14 @@
+/Users/talhayildiz/Odevler/odev2.3/bin/Debug/net10.0/odev2.3
+/Users/talhayildiz/Odevler/odev2.3/bin/Debug/net10.0/odev2.3.deps.json
+/Users/talhayildiz/Odevler/odev2.3/bin/Debug/net10.0/odev2.3.runtimeconfig.json
+/Users/talhayildiz/Odevler/odev2.3/bin/Debug/net10.0/odev2.3.dll
+/Users/talhayildiz/Odevler/odev2.3/bin/Debug/net10.0/odev2.3.pdb
+/Users/talhayildiz/Odevler/odev2.3/obj/Debug/net10.0/odev2.3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talhayildiz/Odevler/odev2.3/obj/Debug/net10.0/odev2.3.AssemblyInfoInputs.cache
+/Users/talhayildiz/Odevler/odev2.3/obj/Debug/net10.0/odev2.3.AssemblyInfo.cs
+/Users/talhayildiz/Odevler/odev2.3/obj/Debug/net10.0/odev2.3.csproj.CoreCompileInputs.cache
+/Users/talhayildiz/Odevler/odev2.3/obj/Debug/net10.0/odev2.3.dll
+/Users/talhayildiz/Odevler/odev2.3/obj/Debug/net10.0/refint/odev2.3.dll
+/Users/talhayildiz/Odevler/odev2.3/obj/Debug/net10.0/odev2.3.pdb
+/Users/talhayildiz/Odevler/odev2.3/obj/Debug/net10.0/odev2.3.genruntimeconfig.cache
+/Users/talhayildiz/Odevler/odev2.3/obj/Debug/net10.0/ref/odev2.3.dll
